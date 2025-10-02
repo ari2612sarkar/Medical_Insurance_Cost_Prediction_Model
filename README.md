@@ -16,10 +16,8 @@ Estimate individual medical insurance expenses based on age, BMI, smoking status
 ### Methodology
 1. Data exploration and feature engineering  
 2. Manual implementation of Linear Regression using the closed-form OLS solution:  
-   \[
-   \\beta = (X^T X)^{-1} X^T y
-   \]
-3. Coefficient analysis to identify most influential factors.  
+   [ β = (X^T X)^{-1} X^T y ]
+4. Coefficient analysis to identify most influential factors.  
 
 ### Deliverables
 - **Notebook**: `notebooks/Project1_Aritra_ManualLR.ipynb`  
