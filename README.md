@@ -25,7 +25,7 @@ Estimate individual medical insurance expenses based on age, BMI, smoking status
 - **Notebook**: `notebooks/Project1_Aritra_ManualLR.ipynb`  
 - **Predictions**: `outputs/predictions.csv`
 - **Model**: `model/Medical_Linear_Regression_model.pkl` 
-- **Dataset**: `data/data_insurance.csv`  
+- **Dataset**: `Dataset/data_insurance.csv`  
 
 ### Results
 - Model achieves good predictive performance with manual regression.  
